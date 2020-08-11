@@ -36,4 +36,4 @@ def main():
         print(consonant(word))
 
 
-main()_
+main()
